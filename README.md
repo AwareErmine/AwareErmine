@@ -1,4 +1,6 @@
-![Header](./github-header-image.png)
+## Hi! I'm Aramie
+
+![Header](./hello-there.gif)
 
 <!--
 **AwareErmine/AwareErmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
